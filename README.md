@@ -3,7 +3,7 @@
 
 This is a Netflix clone project built for knowledge purposes to improve my knowledge at MERN Stack and more knowledge and experience about MERN Stack.
 
-**Note : the work of this repository Is not yet completed So this will Be removed once it Is Completed, if anyone is interested in contributing to this project just contribute it by pull requesting.**
+> The work of this repository Is not yet completed So this will Be removed once it Is Completed, if anyone is interested in contributing to this project just contribute it by pull requesting.
 
 ## Client side
 
